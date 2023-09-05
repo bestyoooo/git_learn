@@ -1,0 +1,67 @@
+[33mcommit ab0eeb0295320ed22cd14172b1e7c6f5cce6c0f9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdev[m[33m)[m
+Merge: 0db87de a138a76
+Author: wujianxiang <bestyoooo@163.com>
+Date:   Tue Sep 5 11:45:21 2023 +0800
+
+    confilic fix
+
+[33mcommit 0db87de1a33eccf0fc935ab2a263eaecd947f99a[m
+Author: wujianxiang <bestyoooo@163.com>
+Date:   Tue Sep 5 11:43:53 2023 +0800
+
+    Master -> test confilic line
+
+[33mcommit a138a76be98f66b92fdfbab9bcadf1a8484fdc78[m
+Author: wujianxiang <bestyoooo@163.com>
+Date:   Tue Sep 5 11:42:17 2023 +0800
+
+    Master -> Test merge maybe conflict
+
+[33mcommit 5ec1270d94b3d64967b58881526ad916931418f4[m
+Author: wujianxiang <bestyoooo@163.com>
+Date:   Tue Sep 5 11:40:23 2023 +0800
+
+    Test Hello commit
+
+[33mcommit db722ec921cae6a8abe23ecae72a461f83819bc6[m
+Merge: 4649e14 80c7acd
+Author: wujianxiang <bestyoooo@163.com>
+Date:   Tue Sep 5 11:32:49 2023 +0800
+
+    master merge dev confilic fix
+
+[33mcommit 80c7acdb0bf4fdbb4c416064df9cc93683ea0b2a[m
+Author: wujianxiang <bestyoooo@163.com>
+Date:   Tue Sep 5 11:29:04 2023 +0800
+
+    dev new merge
+
+[33mcommit 4649e14c0ce6e893ee17f042a5878054e0a4fe51[m
+Author: wujianxiang <bestyoooo@163.com>
+Date:   Tue Sep 5 11:27:34 2023 +0800
+
+    master new merge
+
+[33mcommit f0534fe95859d76cd8e2d9424270345e743f87de[m
+Author: wujianxiang <bestyoooo@163.com>
+Date:   Tue Sep 5 11:23:12 2023 +0800
+
+    dev commit
+
+[33mcommit 8269f22e3d48ac196cb500c8dd22660eab579f5c[m
+Author: wujianxiang <bestyoooo@163.com>
+Date:   Tue Sep 5 10:39:28 2023 +0800
+
+    Hello hake
+
+[33mcommit 61e3f8abddae81e787143e73c2b9c8a81ff72bed[m
+Author: wujianxiang <bestyoooo@163.com>
+Date:   Tue Sep 5 10:36:43 2023 +0800
+
+    second commit
+
+[33mcommit 82896fdcef0b83256e7c2b8274f07152862c251b[m
+Author: wujianxiang <bestyoooo@163.com>
+Date:   Tue Sep 5 10:35:04 2023 +0800
+
+    first commit

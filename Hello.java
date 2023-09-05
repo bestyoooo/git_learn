@@ -8,6 +8,7 @@ public class Hello {
 	System.out.println("Test Hello");
 	System.out.println("Master -> Test confilict line");
 	System.out.println("Master -> Test new merge maybe conflict");
+	System.out.println("Test PUSH");
     }
 }
 
