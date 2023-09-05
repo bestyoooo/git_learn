@@ -6,6 +6,7 @@ public class Hello {
 	System.out.println("Master new merge");
 	System.out.println("Dev new merge");
 	System.out.println("Test Hello");
+	System.out.println("Master -> Test new merge maybe conflict");
     }
 }
 
